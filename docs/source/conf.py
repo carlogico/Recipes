@@ -11,7 +11,6 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 
 import os
-import sphinx_bootstrap_theme
 from docutils.parsers.rst.directives.admonitions import BaseAdmonition
 from docutils import nodes
 from docutils.parsers.rst.roles import set_classes
@@ -77,18 +76,7 @@ master_doc = 'index'
 # a list of builtin themes.
 #
 
-html_theme_options = {
-    'source_link_position': "footer",
-    'bootswatch_theme': "paper",
-    'navbar_pagenav': False,
-    'navbar_site_name': "Chapters",
-    'navbar_sidebarrel': False,
-    'bootstrap_version': "3",
-    'globaltoc_depth': -1
-    }
-
-html_theme = 'bootstrap'
-html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+html_theme = 'alabaster'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
