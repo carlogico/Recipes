@@ -18,7 +18,7 @@ Crostoli
 .. procedure::
 
    Mix all ingredients and knead for a couple of minutes.
-   Form a ball, wrap i in plastic wrap and let rest in the fre=idge for at least 30 minutes.
+   Form a ball, wrap it in plastic wrap and let rest in the fridge for at least 30 minutes.
    Roll the dough as thin as possible (about 1 mm). Cut in strips of about 4 cm x 15 cm.
    Fry in 350 F oil until golden.
    Dust with powdered sugar and serve. Do not choke on the powdered sugar.
