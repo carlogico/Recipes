@@ -2,7 +2,10 @@
     --link-color:#4c72b0;
 }
 
-body { color: #444444 !important; }
+body{
+    color: #444444 !important;
+    font-family:"Georgia", Helvetica;
+}
 
 h1 { font-size: 40px !important; }
 h2 { font-size: 32px !important; }
@@ -43,10 +46,9 @@ footer a{
     color: #444444 !important;
     font-weight: bold;
     background-color: white !important;
-    border-radius: 4px !important;
-    border-color: gainsboro !important;
+    border-color: rgb(171, 217, 255) !important;
     border-style: solid !important;
-    border-width: 0px 0px 0px 8px !important;
+    border-width: 0px 0px 0px 4px !important;
     padding: 0px !important;
     padding-left: 12px !important;
 }
@@ -57,7 +59,29 @@ footer a{
 }
 
 .ingredients > .admonition-title {
-    font-size: 18px !important;
+    font-size: 22px !important;
+    color: inherit !important;
+    background-color: inherit !important;
+}
+
+.tools {
+    color: #444444 !important;
+    font-weight: bold;
+    background-color: white !important;
+    border-color: rgb(222, 240, 255) !important;
+    border-style: solid !important;
+    border-width: 0px 0px 0px 4px !important;
+    padding: 0px !important;
+    padding-left: 12px !important;
+}
+
+.tools > ul {
+    font-style: italic !important;
+    font-weight: normal;
+}
+
+.tools > .admonition-title {
+    font-size: 22px !important;
     color: inherit !important;
     background-color: inherit !important;
 }
