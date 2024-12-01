@@ -81,7 +81,7 @@ html_permalinks_icon = '#'
 html_theme_options = {
     'body_centered': True,
     'breadcrumbs': True,
-    'left_buttons': ['search-button.html', 'epub-button.html'],
+    'left_buttons': ['search-button.html', 'epub-button.html', 'report-issue.html'],
     'show_insipid': False
 }
 
