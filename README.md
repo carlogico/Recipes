@@ -1,6 +1,6 @@
 # Recipes
 
-![CI](https://github.com/carlogico/Recipes/workflows/CI/badge.svg?branch=feature%2Fbuild-gh-pages)
+![CI](https://github.com/carlogico/Recipes/actions/workflows/main.yml/badge.svg?branch=feature%2Fbuild-gh-pages)
 
 To build with sphinx, `cd` to the `docs` folder and `make html` or `make latexpdf`.
 
