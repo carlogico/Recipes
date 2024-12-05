@@ -69,6 +69,14 @@ exclude_patterns = []
 
 master_doc = 'index'
 
+html_js_files = [
+    'script.js'
+]
+
+rst_prolog = """
+.. role:: amnt
+   :class: amnt
+"""
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -193,6 +201,23 @@ class Procedure(BaseAdmonition):
                                 admonition_node)
         return [admonition_node]
 
+class Multiply(BaseAdmonition):
+
+    required_arguments = 0
+    optional_arguments = 0
+    node_class = nodes.admonition
+
+    def run(self):
+        set_classes(self.options)
+        text = '\n'.join(self.content)
+        admonition_node = self.node_class(text, **self.options)
+        self.add_name(admonition_node)
+        if self.node_class is nodes.admonition:
+            if 'classes' not in self.options:
+                admonition_node['classes'] += ['multiply']
+        self.state.nested_parse(self.content, self.content_offset,
+                                admonition_node)
+        return [admonition_node]
 
 def add_buttonsData_to_context(app, pagename, templatename, context, doctree):
 
@@ -213,6 +238,7 @@ def setup(app):
     app.add_directive('tools', Tools)
     app.add_directive('procedure', Procedure)
     app.add_directive('makes', Makes)
+    app.add_directive('multiply', Multiply)
 
 
 # -- Options for LaTeX output ---------------------------------------------

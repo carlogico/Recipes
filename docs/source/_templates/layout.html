@@ -1,0 +1,10 @@
+{% extends "!layout.html" %}
+<div role="main">
+    {% block document %}
+    {{ super()|replace('<div class="multiply admonition">
+</div>',
+'<input type="number" id="multiplier" placeholder="Multiplier" />
+<button id="multiply-btn">Multiply</button>
+<button id="reset-btn">Reset</button>') }}
+    {% endblock %}
+</div>
