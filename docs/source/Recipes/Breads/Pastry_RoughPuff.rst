@@ -4,15 +4,17 @@
 Rough Puff Pastry
 =================
 
+.. multiply::
+
 .. makes::
-   2 pie crusts or a top and a bottom.
+   :amnt:`2` pie crusts or :amnt:`1` top and bottom.
 
 .. ingredients::
 
-   - 150 g water, cold from the fridge, plus some extra in a different container
-   - 300 g butter, cut in 1.5cm cubes, just about defrosted
-   - 450 g AP flour, also fridge temperature
-   - 5 g salt
+   - :amnt:`150.234 g` water, cold from the fridge, plus some extra in a different container
+   - :amnt:`300 g` butter, cut in 1.5cm cubes, just about defrosted
+   - :amnt:`450 g` AP flour, also fridge temperature
+   - :amnt:`5 g` salt
 
 .. tools::
 
