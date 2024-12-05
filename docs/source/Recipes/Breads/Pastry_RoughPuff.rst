@@ -4,15 +4,17 @@
 Rough Puff Pastry
 =================
 
+.. multiply::
+
 .. makes::
-   2 pie crusts or a top and a bottom.
+   :amnt:`2` pie crusts or :amnt:`1` top and bottom.
 
 .. ingredients::
 
-   - 150 g water, cold from the fridge, plus some extra in a different container
-   - 300 g butter, cut in 1.5cm cubes, just about defrosted
-   - 450 g AP flour, also fridge temperature
-   - 5 g salt
+   - :amnt:`150 g` water, cold from the fridge, plus some extra in a different container
+   - :amnt:`300 g` butter, cut in 1.5cm cubes, just about defrosted
+   - :amnt:`450 g` AP flour, also fridge temperature
+   - :amnt:`5 g` salt
 
 .. tools::
 
@@ -27,7 +29,7 @@ Rough Puff Pastry
    Squeeze the butter cubes between your fingers to flatten them down. If they are too solid,
    wait a little bit and try again...
 
-   Drizzle the 150 g of water over the mixture and gently incorporate with your fingers, do not knead.
+   Drizzle the :amnt:`150 g` of water over the mixture and gently incorporate with your fingers, do not knead.
    Once incorporated, invert the bowl onto the working surface. It should be very shaggy and dry, with lots of dry flour hanging around.
    Gather the "dough" into a rough square and start rolling. The goal is to flatten the butter even more into very thin sheets.
    Use the bench scraper to fold the "dough" onto itself (it is still expected for it to not fully hold together here)
