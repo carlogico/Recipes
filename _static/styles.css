@@ -1,0 +1,185 @@
+:root {
+    --link-color:#4c72b0;
+}
+
+body{
+    color: #444444 !important;
+    font-family:"Georgia", Helvetica;
+}
+
+h1 { font-size: 40px !important; }
+h2 { font-size: 32px !important; }
+h3 { font-size: 24px !important; }
+h4 { font-size: 24px !important; }
+h5 { font-size: 18px !important; }
+h6 { font-size: 14px !important; }
+
+footer {
+    color: gray !important;
+}
+
+footer a{
+    color: var(--link-color) !important;
+}
+
+.document a {
+    color: var(--link-color) !important;
+}
+
+.section a {
+    color: var(--link-color) !important;
+}
+
+.note {
+    color: #111111 !important;
+    background-color: aliceblue !important;
+    border-radius: 4px !important;
+}
+
+.tip {
+    color: #444444 !important;
+    background-color: mintcream !important;
+    border-radius: 4px !important;
+}
+
+.ingredients {
+    color: #444444 !important;
+    font-weight: bold;
+    background-color: white !important;
+    border-color: rgb(171, 217, 255) !important;
+    border-style: solid !important;
+    border-width: 0px 0px 0px 4px !important;
+    padding: 0px !important;
+    padding-left: 12px !important;
+}
+
+.ingredients > ul {
+    font-style: italic !important;
+    font-weight: normal;
+}
+
+.ingredients > .admonition-title {
+    font-size: 22px !important;
+    color: inherit !important;
+    background-color: inherit !important;
+}
+
+.tools {
+    color: #444444 !important;
+    font-weight: bold;
+    background-color: white !important;
+    border-color: rgb(222, 240, 255) !important;
+    border-style: solid !important;
+    border-width: 0px 0px 0px 4px !important;
+    padding: 0px !important;
+    padding-left: 12px !important;
+}
+
+.tools > ul {
+    font-style: italic !important;
+    font-weight: normal;
+}
+
+.tools > .admonition-title {
+    font-size: 22px !important;
+    color: inherit !important;
+    background-color: inherit !important;
+}
+
+.admonition-title::before {
+    content: none !important;
+}
+
+.procedure {
+    color: #444444 !important;
+    background-color: white !important;
+    border-width: 0px !important;
+}
+
+.procedure a {
+    font-weight: inherit !important;
+}
+
+.makes {
+    color: #444444 !important;
+    background-color: white !important;
+}
+
+.makes > .admonition-title {
+    color: #444444 !important;
+    background-color: white !important;
+    font-weight: normal !important;
+}
+
+.button {
+    align-items: center;
+    appearance: none;
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: .375em;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #363636;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    padding: calc(.5em - 1px) 1em;
+    position: relative;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: center;
+    white-space: nowrap;
+}
+
+.button:active {
+    border-color: #4a4a4a;
+    outline: 0;
+}
+
+.button:focus {
+    border-color: #485fc7;
+    outline: 0;
+}
+
+.button:hover {
+    border-color: #b5b5b5;
+}
+
+.button:focus:not(:active) {
+    box-shadow: rgba(72, 95, 199, .25) 0 0 0 .125em;
+}
+
+input[type=number] {
+    appearance: none;
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: .375em;
+    box-shadow: none;
+    padding:5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    width: 4em;
+    max-width: 8em;
+    vertical-align: center;
+}
+
+input[type=number]:focus {
+    border-color: #485fc7;
+    outline: 0;
+}
+
+input[type=number]:focus {
+    border-color: #4a4a4a;
+    outline: 0;
+}
+
+input[type=submit] {
+    padding:5px 15px;
+    background:#ccc;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
