@@ -4,19 +4,21 @@
 Mile High Biscuits
 ===================
 
+.. multiply::
+
 .. makes::
-   24 biscuits
+   :amnt:`24` biscuits
 
 .. ingredients::
 
-   - 375 g AP flour (3 cups)
-   - 4.5 tsp baking powder
-   - 0.75 tsp cream of tartar
-   - 2.5 tbsp sugar
-   - 0.75 tsp salt
-   - 170 g butter (0.75 cups)
-   - 1 egg
-   - 1 cup milk
+   - :amnt:`375 g` AP flour (:amnt:`3 cups`)
+   - :amnt:`4.5 tsp` baking powder
+   - :amnt:`0.75 tsp` cream of tartar
+   - :amnt:`2.5 tbsp` sugar
+   - :amnt:`0.75 tsp` salt
+   - :amnt:`170 g` butter (:amnt:`0.75 cups`)
+   - :amnt:`1` egg
+   - :amnt:`1` cup milk
 
 .. procedure::
 

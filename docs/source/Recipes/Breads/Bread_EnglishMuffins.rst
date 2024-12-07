@@ -4,15 +4,17 @@
 English Muffins
 =====================
 
+.. multiply::
+
 .. ingredients::
 
-   - 540 g bread flour
-   - 400 g lukewarm milk
-   - 43 g butter
-   - 1 egg
-   - 6 g instant yeast
-   - 25 g sugar
-   - 9 g salt
+   - :amnt:`540 g` bread flour
+   - :amnt:`400 g` lukewarm milk
+   - :amnt:`43 g` butter
+   - :amnt:`1` egg
+   - :amnt:`6 g` instant yeast
+   - :amnt:`25 g` sugar
+   - :amnt:`9 g` salt
 
 .. procedure::
 

@@ -4,22 +4,24 @@
 Hokkaido Milk Rolls
 =====================
 
+.. multiply::
+
 .. ingredients::
 
    For the tangzhong:
 
-   - 43 g bread flour
-   - 86 g milk
+   - :amnt:`43 g` bread flour
+   - :amnt:`86 g` milk
 
    For the rolls:
 
-   - 300 g bread flour
-   - 113 g milk
-   - 40 g butter
-   - 1 egg
-   - 5 g instant yeast
-   - 30 g sugar
-   - 6 g salt
+   - :amnt:`300 g` bread flour
+   - :amnt:`113 g` milk
+   - :amnt:`40 g` butter
+   - :amnt:`1` egg
+   - :amnt:`5 g` instant yeast
+   - :amnt:`30 g` sugar
+   - :amnt:`6 g` salt
 
 .. procedure::
 
@@ -41,6 +43,6 @@ Hokkaido Milk Rolls
 
    in the stand mixer, before adding the butter, the dough seemed too dry.
    Add water but overshot it. Added more flour...
-   I think the recipe can take a bit more liquid (maybe 5-10 g?)
+   I think the recipe can take a bit more liquid (maybe :amnt:`5` - :amnt:`10` g?)
 
 .. sectionauthor:: Carlo

@@ -4,14 +4,16 @@
 Ciabaguette
 =====================
 
-.. makes:: 6 loaves
+.. multiply::
+
+.. makes:: :amnt:`6` loaves
 
 .. ingredients::
 
-   - 765 g bread flour (100%)
-   - 16 g salt (2%)
-   - 5 g instant yeast (0.7%)
-   - 610 g cool water (79.6%)
+   - :amnt:`765 g` bread flour (100%)
+   - :amnt:`16 g` salt (2%)
+   - :amnt:`5 g` instant yeast (0.7%)
+   - :amnt:`610 g` cool water (79.6%)
 
 .. procedure::
 
@@ -33,7 +35,7 @@ Ciabaguette
    make it approximately rectangular, and divide in 3 with a bench scraper. Score as your heart desires, and put them in the oven.
    I use a baking sheet lined with parchment paper, and just slide the parchment paper onto the pizza stone in the oven.
 
-   Immediately pour 1/2-1 caup of water in the preheated metal pan that should already be in the oven,
+   Immediately pour 1/2-1 cup of water in the preheated metal pan that should already be in the oven,
    and at 30 seconds intervals mist the oven with water three times (I use a tiny spray bottle).
    Lower the temperature to 475 F. Cook for 20-24 minutes until the bread is golden brown or it reaches 205 F in the middle.
    Crank the oven to 525 F again, let everything warm up and thermalize and repeat with the second half of the dough.

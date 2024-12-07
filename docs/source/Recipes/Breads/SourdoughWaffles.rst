@@ -4,21 +4,23 @@
 Sourdough Waffles
 =====================
 
+.. multiply::
+
 .. ingredients::
 
    For the overnight sponge:
 
-   - 227 g discarded starter
-   - 241 g AP flour
-   - 454 g buttermilk (or regular milk)
-   - 20 g sugar
+   - :amnt:`227 g` discarded starter
+   - :amnt:`241 g` AP flour
+   - :amnt:`454 g` buttermilk (or regular milk)
+   - :amnt:`20 g` sugar
 
    For the rest of the batter:
 
    - Overnight sponge (see above)
-   - 2 eggs
-   - 50 g vegetable oil
-   - 1 tsp baking soda
+   - :amnt:`2` eggs
+   - :amnt:`50 g` vegetable oil
+   - :amnt:`1 tsp` baking soda
 
 .. procedure::
 

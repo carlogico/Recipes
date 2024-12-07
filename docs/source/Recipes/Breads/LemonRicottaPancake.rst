@@ -4,21 +4,23 @@
 Lemon Ricotta Pancakes
 =======================
 
+.. multiply::
+
 .. makes:: breakfast for Tori and Carlo
 
 .. ingredients::
 
-   - 102 grams all-purpose flour
-   - 1 1/2 tsp. baking powder
+   - :amnt:`102 grams` all-purpose flour
+   - :amnt:`1 1/2 tsp` baking powder
    - pinch salt
-   - 50 grams granulated sugar
-   - zest of 1 lemon
-   - 1 1/2 tsp. vanilla
-   - 3 eggs
-   - 170 grams ricotta
-   - 60 grams milk
-   - generous squeeze of juice (maybe juice from ~1/4 lemon)
-   - 28 grams melted butter
+   - :amnt:`50 grams` granulated sugar
+   - zest of :amnt:`1` lemon
+   - :amnt:`1 1/2` tsp. vanilla
+   - :amnt:`3` eggs
+   - :amnt:`170 grams` ricotta
+   - :amnt:`60 grams` milk
+   - generous squeeze of juice (maybe juice from ~ :amnt:`1/4` lemon)
+   - :amnt:`28 grams` melted butter
 
 .. procedure::
 

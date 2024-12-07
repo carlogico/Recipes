@@ -4,11 +4,13 @@
 Tahini
 =====================
 
-.. makes:: 2 portions
+.. multiply::
+
+.. makes:: :amnt:`2` portions
 
 .. ingredients::
 
-   - 50g sesame
+   - :amnt:`50g` sesame
    - olive oil
 
 .. procedure::
